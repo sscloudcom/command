@@ -1,0 +1,6 @@
+all:(.ex)
+file:(.ex)
+folder:(.ex)
+ex(index)
+index.ex(global.ex)
+global.ex(.ex)
