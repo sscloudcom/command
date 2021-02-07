@@ -1,7 +1,8 @@
-all(readme)
-import(command)
-exsport(command)
-git(.ex)
-git.ex()
-all()
-domain("https://sscloudcom.com")
+<html="index.ex">
+<head>
+
+</head>
+<body>
+
+</body>
+</html>
