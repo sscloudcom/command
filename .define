@@ -1,0 +1,6 @@
+all(all)
+all(global)
+all(define)
+all(define:"")
+"define"
+"make a define for code"
